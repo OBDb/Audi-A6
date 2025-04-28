@@ -1,0 +1,22 @@
+command_id: 7E1.220302
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E9056203021A3E
+  expected_values:
+    A6_DRIVE_TIME: 1679.5
+- response: 7E9056203021A45
+  expected_values:
+    A6_DRIVE_TIME: 1681.25
+- response: 7E9056203021A49
+  expected_values:
+    A6_DRIVE_TIME: 1682.25
+- response: 7E9056203021A54
+  expected_values:
+    A6_DRIVE_TIME: 1685
+- response: 7E9056203021A56
+  expected_values:
+    A6_DRIVE_TIME: 1685.5
+- response: 7E9056203021A58
+  expected_values:
+    A6_DRIVE_TIME: 1686

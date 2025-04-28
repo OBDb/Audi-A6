@@ -1,0 +1,280 @@
+command_id: 7E1.220302
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E90562030219CC
+  expected_values:
+    A6_DRIVE_TIME: 1651
+- response: 7E90562030219CD
+  expected_values:
+    A6_DRIVE_TIME: 1651.25
+- response: 7E90562030219CF
+  expected_values:
+    A6_DRIVE_TIME: 1651.75
+- response: 7E90562030219D0
+  expected_values:
+    A6_DRIVE_TIME: 1652
+- response: 7E90562030219D1
+  expected_values:
+    A6_DRIVE_TIME: 1652.25
+- response: 7E90562030219D2
+  expected_values:
+    A6_DRIVE_TIME: 1652.5
+- response: 7E90562030219D3
+  expected_values:
+    A6_DRIVE_TIME: 1652.75
+- response: 7E90562030219D5
+  expected_values:
+    A6_DRIVE_TIME: 1653.25
+- response: 7E90562030219D6
+  expected_values:
+    A6_DRIVE_TIME: 1653.5
+- response: 7E90562030219D7
+  expected_values:
+    A6_DRIVE_TIME: 1653.75
+- response: 7E90562030219D8
+  expected_values:
+    A6_DRIVE_TIME: 1654
+- response: 7E90562030219D9
+  expected_values:
+    A6_DRIVE_TIME: 1654.25
+- response: 7E90562030219DA
+  expected_values:
+    A6_DRIVE_TIME: 1654.5
+- response: 7E90562030219DC
+  expected_values:
+    A6_DRIVE_TIME: 1655
+- response: 7E90562030219DF
+  expected_values:
+    A6_DRIVE_TIME: 1655.75
+- response: 7E90562030219E0
+  expected_values:
+    A6_DRIVE_TIME: 1656
+- response: 7E90562030219E3
+  expected_values:
+    A6_DRIVE_TIME: 1656.75
+- response: 7E90562030219E4
+  expected_values:
+    A6_DRIVE_TIME: 1657
+- response: 7E90562030219E5
+  expected_values:
+    A6_DRIVE_TIME: 1657.25
+- response: 7E90562030219E6
+  expected_values:
+    A6_DRIVE_TIME: 1657.5
+- response: 7E90562030219E7
+  expected_values:
+    A6_DRIVE_TIME: 1657.75
+- response: 7E90562030219E8
+  expected_values:
+    A6_DRIVE_TIME: 1658
+- response: 7E90562030219E9
+  expected_values:
+    A6_DRIVE_TIME: 1658.25
+- response: 7E90562030219EA
+  expected_values:
+    A6_DRIVE_TIME: 1658.5
+- response: 7E90562030219EB
+  expected_values:
+    A6_DRIVE_TIME: 1658.75
+- response: 7E90562030219EC
+  expected_values:
+    A6_DRIVE_TIME: 1659
+- response: 7E90562030219ED
+  expected_values:
+    A6_DRIVE_TIME: 1659.25
+- response: 7E90562030219EF
+  expected_values:
+    A6_DRIVE_TIME: 1659.75
+- response: 7E90562030219F0
+  expected_values:
+    A6_DRIVE_TIME: 1660
+- response: 7E90562030219F1
+  expected_values:
+    A6_DRIVE_TIME: 1660.25
+- response: 7E90562030219F3
+  expected_values:
+    A6_DRIVE_TIME: 1660.75
+- response: 7E90562030219F4
+  expected_values:
+    A6_DRIVE_TIME: 1661
+- response: 7E90562030219F5
+  expected_values:
+    A6_DRIVE_TIME: 1661.25
+- response: 7E90562030219FE
+  expected_values:
+    A6_DRIVE_TIME: 1663.5
+- response: 7E90562030219FF
+  expected_values:
+    A6_DRIVE_TIME: 1663.75
+- response: 7E9056203021A00
+  expected_values:
+    A6_DRIVE_TIME: 1664
+- response: 7E9056203021A03
+  expected_values:
+    A6_DRIVE_TIME: 1664.75
+- response: 7E9056203021A04
+  expected_values:
+    A6_DRIVE_TIME: 1665
+- response: 7E9056203021A05
+  expected_values:
+    A6_DRIVE_TIME: 1665.25
+- response: 7E9056203021A06
+  expected_values:
+    A6_DRIVE_TIME: 1665.5
+- response: 7E9056203021A07
+  expected_values:
+    A6_DRIVE_TIME: 1665.75
+- response: 7E9056203021A08
+  expected_values:
+    A6_DRIVE_TIME: 1666
+- response: 7E9056203021A09
+  expected_values:
+    A6_DRIVE_TIME: 1666.25
+- response: 7E9056203021A0A
+  expected_values:
+    A6_DRIVE_TIME: 1666.5
+- response: 7E9056203021A0B
+  expected_values:
+    A6_DRIVE_TIME: 1666.75
+- response: 7E9056203021A0C
+  expected_values:
+    A6_DRIVE_TIME: 1667
+- response: 7E9056203021A0D
+  expected_values:
+    A6_DRIVE_TIME: 1667.25
+- response: 7E9056203021A16
+  expected_values:
+    A6_DRIVE_TIME: 1669.5
+- response: 7E9056203021A17
+  expected_values:
+    A6_DRIVE_TIME: 1669.75
+- response: 7E9056203021A18
+  expected_values:
+    A6_DRIVE_TIME: 1670
+- response: 7E9056203021A19
+  expected_values:
+    A6_DRIVE_TIME: 1670.25
+- response: 7E9056203021A1A
+  expected_values:
+    A6_DRIVE_TIME: 1670.5
+- response: 7E9056203021A1B
+  expected_values:
+    A6_DRIVE_TIME: 1670.75
+- response: 7E9056203021A1C
+  expected_values:
+    A6_DRIVE_TIME: 1671
+- response: 7E9056203021A1D
+  expected_values:
+    A6_DRIVE_TIME: 1671.25
+- response: 7E9056203021A1E
+  expected_values:
+    A6_DRIVE_TIME: 1671.5
+- response: 7E9056203021A1F
+  expected_values:
+    A6_DRIVE_TIME: 1671.75
+- response: 7E9056203021A20
+  expected_values:
+    A6_DRIVE_TIME: 1672
+- response: 7E9056203021A21
+  expected_values:
+    A6_DRIVE_TIME: 1672.25
+- response: 7E9056203021A23
+  expected_values:
+    A6_DRIVE_TIME: 1672.75
+- response: 7E9056203021A24
+  expected_values:
+    A6_DRIVE_TIME: 1673
+- response: 7E9056203021A25
+  expected_values:
+    A6_DRIVE_TIME: 1673.25
+- response: 7E9056203021A26
+  expected_values:
+    A6_DRIVE_TIME: 1673.5
+- response: 7E9056203021A28
+  expected_values:
+    A6_DRIVE_TIME: 1674
+- response: 7E9056203021A29
+  expected_values:
+    A6_DRIVE_TIME: 1674.25
+- response: 7E9056203021A2A
+  expected_values:
+    A6_DRIVE_TIME: 1674.5
+- response: 7E9056203021A2B
+  expected_values:
+    A6_DRIVE_TIME: 1674.75
+- response: 7E9056203021A2E
+  expected_values:
+    A6_DRIVE_TIME: 1675.5
+- response: 7E9056203021A2F
+  expected_values:
+    A6_DRIVE_TIME: 1675.75
+- response: 7E9056203021A3B
+  expected_values:
+    A6_DRIVE_TIME: 1678.75
+- response: 7E9056203021A3C
+  expected_values:
+    A6_DRIVE_TIME: 1679
+- response: 7E9056203021A3D
+  expected_values:
+    A6_DRIVE_TIME: 1679.25
+- response: 7E9056203021A3E
+  expected_values:
+    A6_DRIVE_TIME: 1679.5
+- response: 7E9056203021A3F
+  expected_values:
+    A6_DRIVE_TIME: 1679.75
+- response: 7E9056203021A40
+  expected_values:
+    A6_DRIVE_TIME: 1680
+- response: 7E9056203021A41
+  expected_values:
+    A6_DRIVE_TIME: 1680.25
+- response: 7E9056203021A42
+  expected_values:
+    A6_DRIVE_TIME: 1680.5
+- response: 7E9056203021A43
+  expected_values:
+    A6_DRIVE_TIME: 1680.75
+- response: 7E9056203021A44
+  expected_values:
+    A6_DRIVE_TIME: 1681
+- response: 7E9056203021A45
+  expected_values:
+    A6_DRIVE_TIME: 1681.25
+- response: 7E9056203021A46
+  expected_values:
+    A6_DRIVE_TIME: 1681.5
+- response: 7E9056203021A48
+  expected_values:
+    A6_DRIVE_TIME: 1682
+- response: 7E9056203021A4A
+  expected_values:
+    A6_DRIVE_TIME: 1682.5
+- response: 7E9056203021A4B
+  expected_values:
+    A6_DRIVE_TIME: 1682.75
+- response: 7E9056203021A4C
+  expected_values:
+    A6_DRIVE_TIME: 1683
+- response: 7E9056203021A4D
+  expected_values:
+    A6_DRIVE_TIME: 1683.25
+- response: 7E9056203021A4E
+  expected_values:
+    A6_DRIVE_TIME: 1683.5
+- response: 7E9056203021A50
+  expected_values:
+    A6_DRIVE_TIME: 1684
+- response: 7E9056203021A51
+  expected_values:
+    A6_DRIVE_TIME: 1684.25
+- response: 7E9056203021A52
+  expected_values:
+    A6_DRIVE_TIME: 1684.5
+- response: 7E9056203021A53
+  expected_values:
+    A6_DRIVE_TIME: 1684.75
+- response: 7E9056203021A54
+  expected_values:
+    A6_DRIVE_TIME: 1685
