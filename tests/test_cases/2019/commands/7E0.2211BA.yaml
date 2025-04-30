@@ -1076,6 +1076,9 @@ test_cases:
 - response: 7E8056211BA4B25
   expected_values:
     A6_OIL_LEVEL: 76.948
+- response: 7E8056211BA4B29
+  expected_values:
+    A6_OIL_LEVEL: 76.964
 - response: 7E8056211BA4B2C
   expected_values:
     A6_OIL_LEVEL: 76.976
@@ -3419,6 +3422,9 @@ test_cases:
 - response: 7E8056211BA5928
   expected_values:
     A6_OIL_LEVEL: 91.296
+- response: 7E8056211BA592B
+  expected_values:
+    A6_OIL_LEVEL: 91.308
 - response: 7E8056211BA592E
   expected_values:
     A6_OIL_LEVEL: 91.32

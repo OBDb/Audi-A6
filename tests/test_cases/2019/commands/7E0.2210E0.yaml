@@ -3233,3 +3233,18 @@ test_cases:
 - response: 7E8076210E00001C9AD
   expected_values:
     A6_ODO_3: 117165
+- response: 7E8076210E00001C9CB
+  expected_values:
+    A6_ODO_3: 117195
+- response: 7E8076210E00001C9CC
+  expected_values:
+    A6_ODO_3: 117196
+- response: 7E8076210E00001C9CD
+  expected_values:
+    A6_ODO_3: 117197
+- response: 7E8076210E00001C9CE
+  expected_values:
+    A6_ODO_3: 117198
+- response: 7E8076210E00001C9CF
+  expected_values:
+    A6_ODO_3: 117199
