@@ -11,6 +11,9 @@ test_cases:
 - response: 7E8056211BA28D0
   expected_values:
     A6_OIL_LEVEL: 41.792
+- response: 7E8056211BA2AFD
+  expected_values:
+    A6_OIL_LEVEL: 44.02
 - response: 7E8056211BA2CCD
   expected_values:
     A6_OIL_LEVEL: 45.876
@@ -23,6 +26,9 @@ test_cases:
 - response: 7E8056211BA3607
   expected_values:
     A6_OIL_LEVEL: 55.324
+- response: 7E8056211BA362C
+  expected_values:
+    A6_OIL_LEVEL: 55.472
 - response: 7E8056211BA3747
   expected_values:
     A6_OIL_LEVEL: 56.604
@@ -35,6 +41,9 @@ test_cases:
 - response: 7E8056211BA39F7
   expected_values:
     A6_OIL_LEVEL: 59.356
+- response: 7E8056211BA39FA
+  expected_values:
+    A6_OIL_LEVEL: 59.368
 - response: 7E8056211BA3A67
   expected_values:
     A6_OIL_LEVEL: 59.804
@@ -239,6 +248,9 @@ test_cases:
 - response: 7E8056211BA42EC
   expected_values:
     A6_OIL_LEVEL: 68.528
+- response: 7E8056211BA42EF
+  expected_values:
+    A6_OIL_LEVEL: 68.54
 - response: 7E8056211BA4307
   expected_values:
     A6_OIL_LEVEL: 68.636
@@ -251,6 +263,9 @@ test_cases:
 - response: 7E8056211BA435A
   expected_values:
     A6_OIL_LEVEL: 68.968
+- response: 7E8056211BA4361
+  expected_values:
+    A6_OIL_LEVEL: 68.996
 - response: 7E8056211BA4393
   expected_values:
     A6_OIL_LEVEL: 69.196
@@ -311,6 +326,9 @@ test_cases:
 - response: 7E8056211BA4483
   expected_values:
     A6_OIL_LEVEL: 70.156
+- response: 7E8056211BA449B
+  expected_values:
+    A6_OIL_LEVEL: 70.252
 - response: 7E8056211BA44A1
   expected_values:
     A6_OIL_LEVEL: 70.276
@@ -452,6 +470,9 @@ test_cases:
 - response: 7E8056211BA4671
   expected_values:
     A6_OIL_LEVEL: 72.132
+- response: 7E8056211BA4674
+  expected_values:
+    A6_OIL_LEVEL: 72.144
 - response: 7E8056211BA4685
   expected_values:
     A6_OIL_LEVEL: 72.212
@@ -605,6 +626,9 @@ test_cases:
 - response: 7E8056211BA47DD
   expected_values:
     A6_OIL_LEVEL: 73.588
+- response: 7E8056211BA47ED
+  expected_values:
+    A6_OIL_LEVEL: 73.652
 - response: 7E8056211BA47F1
   expected_values:
     A6_OIL_LEVEL: 73.668
@@ -1214,6 +1238,9 @@ test_cases:
 - response: 7E8056211BA4C12
   expected_values:
     A6_OIL_LEVEL: 77.896
+- response: 7E8056211BA4C15
+  expected_values:
+    A6_OIL_LEVEL: 77.908
 - response: 7E8056211BA4C19
   expected_values:
     A6_OIL_LEVEL: 77.924
@@ -1826,6 +1853,9 @@ test_cases:
 - response: 7E8056211BA4F79
   expected_values:
     A6_OIL_LEVEL: 81.38
+- response: 7E8056211BA4F7C
+  expected_values:
+    A6_OIL_LEVEL: 81.392
 - response: 7E8056211BA4F80
   expected_values:
     A6_OIL_LEVEL: 81.408
@@ -2813,6 +2843,9 @@ test_cases:
 - response: 7E8056211BA54EB
   expected_values:
     A6_OIL_LEVEL: 86.956
+- response: 7E8056211BA54EF
+  expected_values:
+    A6_OIL_LEVEL: 86.972
 - response: 7E8056211BA54F9
   expected_values:
     A6_OIL_LEVEL: 87.012
@@ -3143,6 +3176,9 @@ test_cases:
 - response: 7E8056211BA572D
   expected_values:
     A6_OIL_LEVEL: 89.268
+- response: 7E8056211BA5737
+  expected_values:
+    A6_OIL_LEVEL: 89.308
 - response: 7E8056211BA573A
   expected_values:
     A6_OIL_LEVEL: 89.32
@@ -3224,6 +3260,9 @@ test_cases:
 - response: 7E8056211BA57CD
   expected_values:
     A6_OIL_LEVEL: 89.908
+- response: 7E8056211BA57D0
+  expected_values:
+    A6_OIL_LEVEL: 89.92
 - response: 7E8056211BA57D3
   expected_values:
     A6_OIL_LEVEL: 89.932
@@ -3293,6 +3332,9 @@ test_cases:
 - response: 7E8056211BA5866
   expected_values:
     A6_OIL_LEVEL: 90.52
+- response: 7E8056211BA586D
+  expected_values:
+    A6_OIL_LEVEL: 90.548
 - response: 7E8056211BA5870
   expected_values:
     A6_OIL_LEVEL: 90.56
