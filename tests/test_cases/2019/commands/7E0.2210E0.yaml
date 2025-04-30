@@ -3116,3 +3116,120 @@ test_cases:
 - response: 7E8076210E00001C963
   expected_values:
     A6_ODO_3: 117091
+- response: 7E8076210E00001C96C
+  expected_values:
+    A6_ODO_3: 117100
+- response: 7E8076210E00001C96D
+  expected_values:
+    A6_ODO_3: 117101
+- response: 7E8076210E00001C96E
+  expected_values:
+    A6_ODO_3: 117102
+- response: 7E8076210E00001C96F
+  expected_values:
+    A6_ODO_3: 117103
+- response: 7E8076210E00001C970
+  expected_values:
+    A6_ODO_3: 117104
+- response: 7E8076210E00001C971
+  expected_values:
+    A6_ODO_3: 117105
+- response: 7E8076210E00001C972
+  expected_values:
+    A6_ODO_3: 117106
+- response: 7E8076210E00001C973
+  expected_values:
+    A6_ODO_3: 117107
+- response: 7E8076210E00001C974
+  expected_values:
+    A6_ODO_3: 117108
+- response: 7E8076210E00001C975
+  expected_values:
+    A6_ODO_3: 117109
+- response: 7E8076210E00001C976
+  expected_values:
+    A6_ODO_3: 117110
+- response: 7E8076210E00001C977
+  expected_values:
+    A6_ODO_3: 117111
+- response: 7E8076210E00001C978
+  expected_values:
+    A6_ODO_3: 117112
+- response: 7E8076210E00001C979
+  expected_values:
+    A6_ODO_3: 117113
+- response: 7E8076210E00001C97A
+  expected_values:
+    A6_ODO_3: 117114
+- response: 7E8076210E00001C97B
+  expected_values:
+    A6_ODO_3: 117115
+- response: 7E8076210E00001C97C
+  expected_values:
+    A6_ODO_3: 117116
+- response: 7E8076210E00001C97D
+  expected_values:
+    A6_ODO_3: 117117
+- response: 7E8076210E00001C97E
+  expected_values:
+    A6_ODO_3: 117118
+- response: 7E8076210E00001C97F
+  expected_values:
+    A6_ODO_3: 117119
+- response: 7E8076210E00001C980
+  expected_values:
+    A6_ODO_3: 117120
+- response: 7E8076210E00001C981
+  expected_values:
+    A6_ODO_3: 117121
+- response: 7E8076210E00001C982
+  expected_values:
+    A6_ODO_3: 117122
+- response: 7E8076210E00001C983
+  expected_values:
+    A6_ODO_3: 117123
+- response: 7E8076210E00001C984
+  expected_values:
+    A6_ODO_3: 117124
+- response: 7E8076210E00001C985
+  expected_values:
+    A6_ODO_3: 117125
+- response: 7E8076210E00001C986
+  expected_values:
+    A6_ODO_3: 117126
+- response: 7E8076210E00001C987
+  expected_values:
+    A6_ODO_3: 117127
+- response: 7E8076210E00001C988
+  expected_values:
+    A6_ODO_3: 117128
+- response: 7E8076210E00001C989
+  expected_values:
+    A6_ODO_3: 117129
+- response: 7E8076210E00001C98A
+  expected_values:
+    A6_ODO_3: 117130
+- response: 7E8076210E00001C98B
+  expected_values:
+    A6_ODO_3: 117131
+- response: 7E8076210E00001C98C
+  expected_values:
+    A6_ODO_3: 117132
+- response: 7E8076210E00001C98E
+  expected_values:
+    A6_ODO_3: 117134
+- response: 7E8076210E00001C98F
+  expected_values:
+    A6_ODO_3: 117135
+- response: 7E8076210E00001C9AA
+  expected_values:
+    A6_ODO_3: 117162
+- response: 7E8076210E00001C9AB
+  expected_values:
+    A6_ODO_3: 117163
+- response: 7E8076210E00001C9AC
+  expected_values:
+    A6_ODO_3: 117164
+- response: 7E8076210E00001C9AD
+  expected_values:
+    A6_ODO_3: 117165
