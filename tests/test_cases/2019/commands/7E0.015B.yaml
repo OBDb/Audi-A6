@@ -1,0 +1,49 @@
+command_id: 7E0.015B
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7ED03415B8F
+  expected_values:
+    BAT_SOC: 56.07843
+- response: 7ED03415B90
+  expected_values:
+    BAT_SOC: 56.47059
+- response: 7ED03415B91
+  expected_values:
+    BAT_SOC: 56.86275
+- response: 7ED03415B92
+  expected_values:
+    BAT_SOC: 57.2549
+- response: 7ED03415B93
+  expected_values:
+    BAT_SOC: 57.64706
+- response: 7ED03415B94
+  expected_values:
+    BAT_SOC: 58.03922
+- response: 7ED03415B95
+  expected_values:
+    BAT_SOC: 58.43137
+- response: 7ED03415B96
+  expected_values:
+    BAT_SOC: 58.82353
+- response: 7ED03415B97
+  expected_values:
+    BAT_SOC: 59.21569
+- response: 7ED03415B98
+  expected_values:
+    BAT_SOC: 59.60784
+- response: 7ED03415B99
+  expected_values:
+    BAT_SOC: 60
+- response: 7ED03415B9A
+  expected_values:
+    BAT_SOC: 60.39216
+- response: 7ED03415B9B
+  expected_values:
+    BAT_SOC: 60.78431
+- response: 7ED03415B9C
+  expected_values:
+    BAT_SOC: 61.17647
+- response: 7ED03415B9D
+  expected_values:
+    BAT_SOC: 61.56863

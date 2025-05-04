@@ -2,6 +2,9 @@ command_id: 7E1.220303
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E904620303E2
+  expected_values:
+    A6_DRIVE_TIME_ECO: 90.4
 - response: 7E904620303E3
   expected_values:
     A6_DRIVE_TIME_ECO: 90.8
