@@ -3344,3 +3344,261 @@ test_cases:
 - response: 7E8076210E00001CA61
   expected_values:
     A6_ODO_3: 117345
+- response: 7E8076210E00001CA62
+  expected_values:
+    A6_ODO_3: 117346
+- response: 7E8076210E00001CA63
+  expected_values:
+    A6_ODO_3: 117347
+- response: 7E8076210E00001CA64
+  expected_values:
+    A6_ODO_3: 117348
+- response: 7E8076210E00001CA65
+  expected_values:
+    A6_ODO_3: 117349
+- response: 7E8076210E00001CA66
+  expected_values:
+    A6_ODO_3: 117350
+- response: 7E8076210E00001CA67
+  expected_values:
+    A6_ODO_3: 117351
+- response: 7E8076210E00001CA68
+  expected_values:
+    A6_ODO_3: 117352
+- response: 7E8076210E00001CA69
+  expected_values:
+    A6_ODO_3: 117353
+- response: 7E8076210E00001CA6A
+  expected_values:
+    A6_ODO_3: 117354
+- response: 7E8076210E00001CA6B
+  expected_values:
+    A6_ODO_3: 117355
+- response: 7E8076210E00001CA6C
+  expected_values:
+    A6_ODO_3: 117356
+- response: 7E8076210E00001CA6D
+  expected_values:
+    A6_ODO_3: 117357
+- response: 7E8076210E00001CA6E
+  expected_values:
+    A6_ODO_3: 117358
+- response: 7E8076210E00001CA6F
+  expected_values:
+    A6_ODO_3: 117359
+- response: 7E8076210E00001CA70
+  expected_values:
+    A6_ODO_3: 117360
+- response: 7E8076210E00001CA71
+  expected_values:
+    A6_ODO_3: 117361
+- response: 7E8076210E00001CA72
+  expected_values:
+    A6_ODO_3: 117362
+- response: 7E8076210E00001CA73
+  expected_values:
+    A6_ODO_3: 117363
+- response: 7E8076210E00001CA74
+  expected_values:
+    A6_ODO_3: 117364
+- response: 7E8076210E00001CA75
+  expected_values:
+    A6_ODO_3: 117365
+- response: 7E8076210E00001CA76
+  expected_values:
+    A6_ODO_3: 117366
+- response: 7E8076210E00001CA77
+  expected_values:
+    A6_ODO_3: 117367
+- response: 7E8076210E00001CA78
+  expected_values:
+    A6_ODO_3: 117368
+- response: 7E8076210E00001CA79
+  expected_values:
+    A6_ODO_3: 117369
+- response: 7E8076210E00001CA7A
+  expected_values:
+    A6_ODO_3: 117370
+- response: 7E8076210E00001CA7B
+  expected_values:
+    A6_ODO_3: 117371
+- response: 7E8076210E00001CA7C
+  expected_values:
+    A6_ODO_3: 117372
+- response: 7E8076210E00001CA7D
+  expected_values:
+    A6_ODO_3: 117373
+- response: 7E8076210E00001CA7E
+  expected_values:
+    A6_ODO_3: 117374
+- response: 7E8076210E00001CA7F
+  expected_values:
+    A6_ODO_3: 117375
+- response: 7E8076210E00001CA80
+  expected_values:
+    A6_ODO_3: 117376
+- response: 7E8076210E00001CA81
+  expected_values:
+    A6_ODO_3: 117377
+- response: 7E8076210E00001CA82
+  expected_values:
+    A6_ODO_3: 117378
+- response: 7E8076210E00001CA83
+  expected_values:
+    A6_ODO_3: 117379
+- response: 7E8076210E00001CA84
+  expected_values:
+    A6_ODO_3: 117380
+- response: 7E8076210E00001CA85
+  expected_values:
+    A6_ODO_3: 117381
+- response: 7E8076210E00001CA86
+  expected_values:
+    A6_ODO_3: 117382
+- response: 7E8076210E00001CA87
+  expected_values:
+    A6_ODO_3: 117383
+- response: 7E8076210E00001CA88
+  expected_values:
+    A6_ODO_3: 117384
+- response: 7E8076210E00001CA89
+  expected_values:
+    A6_ODO_3: 117385
+- response: 7E8076210E00001CA8A
+  expected_values:
+    A6_ODO_3: 117386
+- response: 7E8076210E00001CA8B
+  expected_values:
+    A6_ODO_3: 117387
+- response: 7E8076210E00001CA8C
+  expected_values:
+    A6_ODO_3: 117388
+- response: 7E8076210E00001CA8D
+  expected_values:
+    A6_ODO_3: 117389
+- response: 7E8076210E00001CA8E
+  expected_values:
+    A6_ODO_3: 117390
+- response: 7E8076210E00001CA8F
+  expected_values:
+    A6_ODO_3: 117391
+- response: 7E8076210E00001CA90
+  expected_values:
+    A6_ODO_3: 117392
+- response: 7E8076210E00001CA91
+  expected_values:
+    A6_ODO_3: 117393
+- response: 7E8076210E00001CA92
+  expected_values:
+    A6_ODO_3: 117394
+- response: 7E8076210E00001CA93
+  expected_values:
+    A6_ODO_3: 117395
+- response: 7E8076210E00001CA94
+  expected_values:
+    A6_ODO_3: 117396
+- response: 7E8076210E00001CA95
+  expected_values:
+    A6_ODO_3: 117397
+- response: 7E8076210E00001CA96
+  expected_values:
+    A6_ODO_3: 117398
+- response: 7E8076210E00001CA97
+  expected_values:
+    A6_ODO_3: 117399
+- response: 7E8076210E00001CA98
+  expected_values:
+    A6_ODO_3: 117400
+- response: 7E8076210E00001CA99
+  expected_values:
+    A6_ODO_3: 117401
+- response: 7E8076210E00001CA9A
+  expected_values:
+    A6_ODO_3: 117402
+- response: 7E8076210E00001CA9B
+  expected_values:
+    A6_ODO_3: 117403
+- response: 7E8076210E00001CA9C
+  expected_values:
+    A6_ODO_3: 117404
+- response: 7E8076210E00001CA9D
+  expected_values:
+    A6_ODO_3: 117405
+- response: 7E8076210E00001CA9E
+  expected_values:
+    A6_ODO_3: 117406
+- response: 7E8076210E00001CA9F
+  expected_values:
+    A6_ODO_3: 117407
+- response: 7E8076210E00001CAA0
+  expected_values:
+    A6_ODO_3: 117408
+- response: 7E8076210E00001CAA1
+  expected_values:
+    A6_ODO_3: 117409
+- response: 7E8076210E00001CAA2
+  expected_values:
+    A6_ODO_3: 117410
+- response: 7E8076210E00001CAA3
+  expected_values:
+    A6_ODO_3: 117411
+- response: 7E8076210E00001CAA4
+  expected_values:
+    A6_ODO_3: 117412
+- response: 7E8076210E00001CAA5
+  expected_values:
+    A6_ODO_3: 117413
+- response: 7E8076210E00001CAA6
+  expected_values:
+    A6_ODO_3: 117414
+- response: 7E8076210E00001CAA7
+  expected_values:
+    A6_ODO_3: 117415
+- response: 7E8076210E00001CAA8
+  expected_values:
+    A6_ODO_3: 117416
+- response: 7E8076210E00001CAA9
+  expected_values:
+    A6_ODO_3: 117417
+- response: 7E8076210E00001CAAB
+  expected_values:
+    A6_ODO_3: 117419
+- response: 7E8076210E00001CAAC
+  expected_values:
+    A6_ODO_3: 117420
+- response: 7E8076210E00001CAAD
+  expected_values:
+    A6_ODO_3: 117421
+- response: 7E8076210E00001CAAE
+  expected_values:
+    A6_ODO_3: 117422
+- response: 7E8076210E00001CAAF
+  expected_values:
+    A6_ODO_3: 117423
+- response: 7E8076210E00001CAB0
+  expected_values:
+    A6_ODO_3: 117424
+- response: 7E8076210E00001CAB1
+  expected_values:
+    A6_ODO_3: 117425
+- response: 7E8076210E00001CAB2
+  expected_values:
+    A6_ODO_3: 117426
+- response: 7E8076210E00001CAB3
+  expected_values:
+    A6_ODO_3: 117427
+- response: 7E8076210E00001CAB4
+  expected_values:
+    A6_ODO_3: 117428
+- response: 7E8076210E00001CAB5
+  expected_values:
+    A6_ODO_3: 117429
+- response: 7E8076210E00001CAB6
+  expected_values:
+    A6_ODO_3: 117430
+- response: 7E8076210E00001CAB7
+  expected_values:
+    A6_ODO_3: 117431
+- response: 7E8076210E00001CAB8
+  expected_values:
+    A6_ODO_3: 117432
