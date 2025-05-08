@@ -11,6 +11,6 @@ test_cases:
 - response: 7E8076210E00001C300
   expected_values:
     A6_ODO_3: 115456
-- response: 7E8076210E00001CA08
+- response: 7E8076210E00001CB00
   expected_values:
-    A6_ODO_3: 117256
+    A6_ODO_3: 117504
