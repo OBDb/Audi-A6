@@ -87,7 +87,7 @@ unsupported_commands_by_ecu:
   - 710.222A0A:A6_ODO
   714:
   - 714.22202F:A6_EOT
-  - 714.222203:A6_ODO_DASH
+  - '714.222203'
   - 714.222294:A6_RANGE
   - 714.22229A:A6_FLV
   - 714.2222B0:A6_FLI_VOL
