@@ -2,6 +2,9 @@ command_id: 7E1.220305
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: '7E90462030500'
+  expected_values:
+    A6_DRIVE_TIME_MANUAL: 0
 - response: '7E90462030502'
   expected_values:
     A6_DRIVE_TIME_MANUAL: 0.8
