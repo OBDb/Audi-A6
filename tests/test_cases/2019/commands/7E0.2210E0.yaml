@@ -1,11 +1,9 @@
 command_id: 7E0.2210E0
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E8 07 62 10 E0 00 01 AD F7
+- response: '7E8 07 62 10 E0 00 01 AD F7 '
   expected_values:
     A6_ODO_3: 110071
-- response: 7E8 07 62 10 E0 00 01 AD F8
+- response: '7E8 07 62 10 E0 00 01 AD F8 '
   expected_values:
     A6_ODO_3: 110072
 - response: 7E8076210E00001ADD1
@@ -17,6 +15,6 @@ test_cases:
 - response: 7E8076210E00001C300
   expected_values:
     A6_ODO_3: 115456
-- response: 7E8076210E00001CB00
+- response: 7E8076210E00001CD00
   expected_values:
-    A6_ODO_3: 117504
+    A6_ODO_3: 118016

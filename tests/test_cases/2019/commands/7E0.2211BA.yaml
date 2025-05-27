@@ -1,11 +1,9 @@
 command_id: 7E0.2211BA
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E8 05 62 11 BA 4B E7
+- response: '7E8 05 62 11 BA 4B E7 '
   expected_values:
     A6_OIL_LEVEL: 77.724
-- response: 7E8 05 62 11 BA 4D 1D
+- response: '7E8 05 62 11 BA 4D 1D '
   expected_values:
     A6_OIL_LEVEL: 78.964
 - response: 7E8056211BA0000
