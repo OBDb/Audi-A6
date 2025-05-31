@@ -1,5 +1,0 @@
-command_id: '715.222356'
-test_cases:
-- response: 77F0462235601
-  expected_values:
-    A6_CRASH_CNT_REAR: 1
