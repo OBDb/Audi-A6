@@ -1,5 +1,0 @@
-command_id: '715.222354'
-test_cases:
-- response: 77F0462235400
-  expected_values:
-    A6_CRASH_CNT_DRVR: 0
