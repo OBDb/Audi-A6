@@ -1,14 +1,14 @@
 command_id: 7E1.220302
 test_cases:
-- response: '7E9056203020678'
-  expected_values:
+- expected_values:
     A6_DRIVE_TIME: 414
-- response: '7E9056203020679'
-  expected_values:
+  response: '7E9056203020678'
+- expected_values:
     A6_DRIVE_TIME: 414.25
-- response: 7E90562030206A4
-  expected_values:
+  response: '7E9056203020679'
+- expected_values:
     A6_DRIVE_TIME: 425
-- response: 7E90562030206A9
-  expected_values:
+  response: 7E90562030206A4
+- expected_values:
     A6_DRIVE_TIME: 426.25
+  response: 7E90562030206A9

@@ -1,5 +1,8 @@
 command_id: 7E1.220303
 test_cases:
-- response: 7E904620303EC
-  expected_values:
+- expected_values:
     A6_DRIVE_TIME_ECO: 94.4
+  response: 7E904620303EC
+- expected_values:
+    A6_DRIVE_TIME_ECO: 94.8
+  response: 7E904620303ED
