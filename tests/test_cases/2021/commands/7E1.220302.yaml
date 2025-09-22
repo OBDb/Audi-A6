@@ -4,29 +4,8 @@ test_cases:
     A6_DRIVE_TIME: 456.75
   response: '7E9056203020723'
 - expected_values:
-    A6_DRIVE_TIME: 457
-  response: '7E9056203020724'
-- expected_values:
-    A6_DRIVE_TIME: 457.25
-  response: '7E9056203020725'
-- expected_values:
-    A6_DRIVE_TIME: 457.75
-  response: '7E9056203020727'
-- expected_values:
-    A6_DRIVE_TIME: 1679.5
-  response: 7E9056203021A3E
-- expected_values:
-    A6_DRIVE_TIME: 1681.25
-  response: 7E9056203021A45
-- expected_values:
-    A6_DRIVE_TIME: 1682.25
-  response: 7E9056203021A49
-- expected_values:
-    A6_DRIVE_TIME: 1685
-  response: 7E9056203021A54
-- expected_values:
-    A6_DRIVE_TIME: 1685.5
-  response: 7E9056203021A56
-- expected_values:
     A6_DRIVE_TIME: 1686
   response: 7E9056203021A58
+- expected_values:
+    A6_DRIVE_TIME: 1793
+  response: 7E9056203021C04

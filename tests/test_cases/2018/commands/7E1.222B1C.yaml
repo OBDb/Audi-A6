@@ -7,5 +7,5 @@ test_cases:
     A6_TIRE_FR_SPD: 76.7
   response: 7E905622B1C02FF
 - expected_values:
-    A6_TIRE_FR_SPD: 199.8
-  response: 7E905622B1C07CE
+    A6_TIRE_FR_SPD: 183.6
+  response: 7E905622B1C072C
