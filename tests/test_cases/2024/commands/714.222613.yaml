@@ -1,0 +1,5 @@
+command_id: '714.222613'
+test_cases:
+- expected_values:
+    A6_IAT: 31.5
+  response: 7EF05622613013B
