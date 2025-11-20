@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A6_DRIVE_TIME: 1696.75
   response: 7E9056203021A83
+- expected_values:
+    A6_DRIVE_TIME: 1701
+  response: 7E9056203021A94
