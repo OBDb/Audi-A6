@@ -1,0 +1,5 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    A6_DRIVE_TIME: 776.75
+  response: 7E9056203020C23

@@ -1,0 +1,29 @@
+command_id: 7E1.222B1B
+test_cases:
+- expected_values:
+    A6_TIRE_FL_SPD: 54.7
+  response: 7E905622B1B0223
+- expected_values:
+    A6_TIRE_FL_SPD: 61.7
+  response: 7E905622B1B0269
+- expected_values:
+    A6_TIRE_FL_SPD: 64.1
+  response: 7E905622B1B0281
+- expected_values:
+    A6_TIRE_FL_SPD: 77.2
+  response: 7E905622B1B0304
+- expected_values:
+    A6_TIRE_FL_SPD: 77.7
+  response: 7E905622B1B0309
+- expected_values:
+    A6_TIRE_FL_SPD: 80.1
+  response: 7E905622B1B0321
+- expected_values:
+    A6_TIRE_FL_SPD: 80.4
+  response: 7E905622B1B0324
+- expected_values:
+    A6_TIRE_FL_SPD: 81
+  response: 7E905622B1B032A
+- expected_values:
+    A6_TIRE_FL_SPD: 95.1
+  response: 7E905622B1B03B7
