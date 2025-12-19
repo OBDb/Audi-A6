@@ -1,6 +1,9 @@
 command_id: 7E1.222B1D
 test_cases:
 - expected_values:
+    A6_TIRE_RL_SPD: 49.4
+  response: 7E905622B1D01EE
+- expected_values:
     A6_TIRE_RL_SPD: 53.9
   response: 7E905622B1D021B
 - expected_values:
