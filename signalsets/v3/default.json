@@ -107,19 +107,19 @@
   "signals": [
     {"id": "A6_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]}
