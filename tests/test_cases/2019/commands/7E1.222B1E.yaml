@@ -4,8 +4,8 @@ test_cases:
     A6_TIRE_RR_SPD: 0
   response: 7E905622B1E0000
 - expected_values:
-    A6_TIRE_RR_SPD: 23.8
-  response: 7E905622B1E00EE
+    A6_TIRE_RR_SPD: 50.3
+  response: 7E905622B1E01F7
 - expected_values:
-    A6_TIRE_RR_SPD: 59.7
-  response: 7E905622B1E0255
+    A6_TIRE_RR_SPD: 143.3
+  response: 7E905622B1E0599
