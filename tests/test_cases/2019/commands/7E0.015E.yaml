@@ -2,10 +2,16 @@ command_id: 7E0.015E
 test_cases:
 - expected_values:
     FUEL_RATE: 0
+  response: '7E8 04 41 5E 00 00 '
+- expected_values:
+    FUEL_RATE: 8.65
+  response: '7E8 04 41 5E 00 AD '
+- expected_values:
+    FUEL_RATE: 0
   response: 7E804415E0000
 - expected_values:
-    FUEL_RATE: 10.15
-  response: 7E804415E00CB
+    FUEL_RATE: 10.5
+  response: 7E804415E00D2
 - expected_values:
     FUEL_RATE: 27.9
   response: 7E804415E022E
