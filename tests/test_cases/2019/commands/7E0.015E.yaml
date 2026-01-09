@@ -4,6 +4,9 @@ test_cases:
     FUEL_RATE: 0
   response: '7E8 04 41 5E 00 00 '
 - expected_values:
+    FUEL_RATE: 8.45
+  response: '7E8 04 41 5E 00 A9 '
+- expected_values:
     FUEL_RATE: 8.65
   response: '7E8 04 41 5E 00 AD '
 - expected_values:
