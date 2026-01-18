@@ -75,11 +75,11 @@
   "signals": [
     {"id": "A6_OIL_LEVEL", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "unknown" }, "name": "Oil level"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "11C4"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2018 },
+{ "hdr": "7E0", "cmd": {"22": "11C4"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2018 },
   "signals": [
     {"id": "A6_OIL_MAX", "path": "Fluids", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "centimeters" }, "name": "Oil level (max)"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "11C5"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2018 },
+{ "hdr": "7E0", "cmd": {"22": "11C5"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2018 },
   "signals": [
     {"id": "A6_OIL_MIN", "path": "Fluids", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "centimeters" }, "name": "Oil level (min)"}
   ]},
@@ -87,39 +87,39 @@
   "signals": [
     {"id": "A6_ODO_2", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer (alternative)", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0302"}, "freq": 900, "dbgfilter": { "to": 2014, "years": [2016, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0302"}, "freq": 900, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME", "path": "Stats", "fmt": { "len": 16, "max": 16383, "div": 4, "unit": "hours" }, "name": "Total drive time"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0303"}, "freq": 900, "dbgfilter": { "to": 2014, "years": [2016, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0303"}, "freq": 900, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_ECO", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (eco)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in eco mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0304"}, "freq": 900, "dbgfilter": { "to": 2014, "years": [2016, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0304"}, "freq": 900, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_SPORT", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (sport)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in sport mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0305"}, "freq": 900, "dbgfilter": { "to": 2014, "years": [2016, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0305"}, "freq": 900, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_MANUAL", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (manual)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in manual mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 900, "dbgfilter": { "to": 2014, "years": [2016, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 900, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016], "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "years": [1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2016], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]}
