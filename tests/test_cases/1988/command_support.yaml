@@ -101,3 +101,7 @@ unsupported_commands_by_ecu:
   - 7E0.2210E0:A6_ODO_3
   - 7E0.2211BA:A6_OIL_LEVEL
   - 7E0.22295A:A6_ODO_2
+  "7E1":
+  - 7E1.7E9.0104
+  - 7E1.7E9.0105
+  - 7E1.7E9.010D
