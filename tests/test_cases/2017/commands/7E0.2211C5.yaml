@@ -1,5 +1,11 @@
 command_id: 7E0.2211C5
 test_cases:
 - expected_values:
+    A6_OIL_MIN: 14.652
+  response: 7E8056211C50E4F
+- expected_values:
+    A6_OIL_MIN: 14.848
+  response: 7E8056211C50E80
+- expected_values:
     A6_OIL_MIN: 23.28
   response: 7E8056211C516BC
