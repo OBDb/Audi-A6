@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_A6"
+
 generations:
   - name: "First Generation (C4)"
     start_year: 1994
@@ -10,16 +13,21 @@ generations:
     description: "The C5 generation marked a significant step forward with a completely new design featuring a more rounded appearance. It introduced new technologies including the aluminum-intensive 'Audi Space Frame' for the high-performance S6 and RS6 variants. Engine options ranged from efficient four-cylinders to powerful V8s, and the generation also saw the introduction of the Allroad quattro, a lifted wagon with adjustable air suspension."
 
   - name: "Third Generation (C6)"
-    start_year: 2004
+    start_year: 2005
     end_year: 2011
     description: "The C6 A6 featured more distinctive styling with Audi's single-frame grille becoming a prominent design element. This generation saw advancements in technology including Audi's MMI (Multi Media Interface) system and adaptive air suspension. Engine options included FSI direct-injection petrol and common-rail diesel units, with the RS6 offering a twin-turbocharged V10 producing 580 HP, making it one of the most powerful sedans of its time."
 
   - name: "Fourth Generation (C7)"
-    start_year: 2011
+    start_year: 2012
     end_year: 2018
     description: "Built on the MLB platform, the C7 A6 featured a more athletic design with a longer wheelbase but shorter overhangs. This generation introduced extensive use of aluminum to reduce weight and improve efficiency. Technology advancements included full LED headlights, a head-up display, and advanced driver assistance systems. Engine options included more efficient TFSI petrol and TDI diesel units, plus hybrid variants for select markets."
 
   - name: "Fifth Generation (C8)"
-    start_year: 2018
-    end_year: null
+    start_year: 2019
+    end_year: 2024
     description: "The current A6 features Audi's latest design language with a wider, lower appearance and sharper lines. The interior represents a technological leap with a dual-touchscreen MMI system replacing most physical buttons. It introduces mild-hybrid technology across the range for improved efficiency. Advanced technology includes sophisticated driver assistance systems approaching Level 3 autonomous driving capability. The C8 generation also includes fully electric e-tron variants for specific markets. Throughout its evolution, the A6 has maintained its position as a technology leader in Audi's lineup, balancing comfort, performance, and innovation."
+
+  - name: "Sixth Generation (C9)"
+    start_year: 2025
+    end_year: null
+    description: "The latest Audi A6 features a completely redesigned exterior and interior using Audi's latest design language. Built on the new Premium Platform Combustion (PPC), it delivers improved efficiency and driving dynamics. The C9 introduces a new interior design with updated MMI technology and enhanced driver assistance systems. Powertrain options include efficient petrol engines with mild-hybrid technology and diesel options, as well as plug-in hybrid variants. The sixth generation continues the A6's legacy as a technological leader in the executive car segment, combining luxury, performance, and sustainability."
