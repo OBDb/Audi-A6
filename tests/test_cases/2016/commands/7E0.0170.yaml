@@ -1,9 +1,9 @@
 command_id: 7E0.0170
 test_cases:
 - expected_values:
-    BP_A_ACT: 108.375
+    BP_A_ACT: 109.65625
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 90.375
+    BP_A_CMD: 71.28125
     BP_A_CMD_SUP: 1
     BP_A_SUP: 0
     BP_B_ACT: 0
@@ -12,12 +12,12 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170030B4C0D
-    7E8218C000000000055
+    7E8100C41700308E90D
+    7E821B5000000000055
 - expected_values:
-    BP_A_ACT: 98.15625
+    BP_A_ACT: 102.40625
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 98.09375
+    BP_A_CMD: 77.28125
     BP_A_CMD_SUP: 1
     BP_A_SUP: 0
     BP_B_ACT: 0
@@ -26,8 +26,22 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170030C430C
-    7E82145000000000055
+    7E8100C41700309A90C
+    7E821CD000000000055
+- expected_values:
+    BP_A_ACT: 112.0625
+    BP_A_ACT_SUP: 1
+    BP_A_CMD: 100.09375
+    BP_A_CMD_SUP: 1
+    BP_A_SUP: 0
+    BP_B_ACT: 0
+    BP_B_ACT_SUP: 0
+    BP_B_CMD: 0
+    BP_B_CMD_SUP: 0
+    BP_B_SUP: 0
+  response: |-
+    7E8100C4170030C830E
+    7E82102000000000055
 - expected_values:
     BP_A_ACT: 102.96875
     BP_A_ACT_SUP: 1
@@ -42,20 +56,6 @@ test_cases:
   response: |-
     7E8100C4170030CDC0C
     7E821DF000000000055
-- expected_values:
-    BP_A_ACT: 113.125
-    BP_A_ACT_SUP: 1
-    BP_A_CMD: 103
-    BP_A_CMD_SUP: 1
-    BP_A_SUP: 0
-    BP_B_ACT: 0
-    BP_B_ACT_SUP: 0
-    BP_B_CMD: 0
-    BP_B_CMD_SUP: 0
-    BP_B_SUP: 0
-  response: |-
-    7E8100C4170030CE00E
-    7E82124000000000055
 - expected_values:
     BP_A_ACT: 103.5
     BP_A_ACT_SUP: 1
@@ -85,9 +85,9 @@ test_cases:
     7E8100C4170030CFC0C
     7E821FE000000000055
 - expected_values:
-    BP_A_ACT: 133.4375
+    BP_A_ACT: 104.03125
     BP_A_ACT_SUP: 1
-    BP_A_CMD: 112.09375
+    BP_A_CMD: 104
     BP_A_CMD_SUP: 1
     BP_A_SUP: 0
     BP_B_ACT: 0
@@ -96,8 +96,8 @@ test_cases:
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
   response: |-
-    7E8100C4170030E0310
-    7E821AE000000000055
+    7E8100C4170030D000D
+    7E82101000000000055
 - expected_values:
     BP_A_ACT: 181.84375
     BP_A_ACT_SUP: 1
