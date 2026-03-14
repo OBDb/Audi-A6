@@ -140,6 +140,8 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0149:APP_D
   - 015B:BAT_SOC
+  - 7E5.7ED.0104
+  - 7E5.7ED.0105
   - 7E5.7ED.010D
   - 7E5.7ED.0142
   - 7E5.7ED.015B
@@ -170,6 +172,3 @@ unsupported_commands_by_ecu:
   - 7E0.2211C4:A6_OIL_MAX
   - 7E0.2211C5:A6_OIL_MIN
   - 7E0.22295A:A6_ODO_2
-  "7E5":
-  - 7E5.7ED.0104
-  - 7E5.7ED.0105
