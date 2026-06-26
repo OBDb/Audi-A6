@@ -1,0 +1,11 @@
+command_id: 7E1.220302
+test_cases:
+- expected_values:
+    A6_DRIVE_TIME: 2345.75
+  response: 7E90562030224A7
+- expected_values:
+    A6_DRIVE_TIME: 2346
+  response: 7E90562030224A8
+- expected_values:
+    A6_DRIVE_TIME: 2346.25
+  response: 7E90562030224A9
