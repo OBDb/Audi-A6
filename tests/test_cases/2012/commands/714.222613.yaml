@@ -1,0 +1,11 @@
+command_id: '714.222613'
+test_cases:
+- expected_values:
+    A6_IAT: 255
+  response: 7B0056226131181
+- expected_values:
+    A6_IAT: 255
+  response: 7B0056226131267
+- expected_values:
+    A6_IAT: 255
+  response: 7B0056226131298
