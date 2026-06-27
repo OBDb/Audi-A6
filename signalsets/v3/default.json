@@ -39,7 +39,7 @@
   "signals": [
     {"id": "A6_FLI_VOL", "path": "Fuel", "fmt": {"bix": 336, "len": 16, "max": 6553.5, "div": 10, "unit": "liters" }, "name": "Fuel level (volume)"}
   ]},
-{ "hdr": "714", "cmd": {"22": "2613"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "714", "cmd": {"22": "2613"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_IAT", "path": "Climate", "fmt": { "len": 16, "max": 255, "div": 10, "unit": "celsius" }, "name": "Interior air temperature"}
   ]},
