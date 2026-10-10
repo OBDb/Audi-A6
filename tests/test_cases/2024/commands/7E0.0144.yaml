@@ -1,14 +1,14 @@
 command_id: 7E0.0144
 test_cases:
 - expected_values:
-    EQ_RAT: 0.84614
+    EQ_RAT: 0.84613
   response: 7E80441446C4E
 - expected_values:
-    EQ_RAT: 0.99989
+    EQ_RAT: 0.99988
   response: 7E80441447FFC
 - expected_values:
-    EQ_RAT: 1.00002
+    EQ_RAT: 1
   response: '7E80441448000'
 - expected_values:
-    EQ_RAT: 1.8547
+    EQ_RAT: 1.85468
   response: 7E8044144ED66

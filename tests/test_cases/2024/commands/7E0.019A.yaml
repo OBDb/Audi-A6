@@ -13,7 +13,7 @@ test_cases:
     7E81008419A08000000
     7E82100000000000000
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: CDM
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 0
