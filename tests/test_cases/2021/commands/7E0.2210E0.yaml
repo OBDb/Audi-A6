@@ -4,8 +4,8 @@ test_cases:
     A6_ODO_3: 37720
   response: 7E8076210E000009358
 - expected_values:
-    A6_ODO_3: 62224
-  response: 7E8076210E00000F310
-- expected_values:
     A6_ODO_3: 62460
   response: 7E8076210E00000F3FC
+- expected_values:
+    A6_ODO_3: 62465
+  response: 7E8076210E00000F401
