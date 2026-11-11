@@ -172,3 +172,8 @@ unsupported_commands_by_ecu:
   - 7E1.222B1C:A6_TIRE_FR_SPD
   - 7E1.222B1D:A6_TIRE_RL_SPD
   - 7E1.222B1E:A6_TIRE_RR_SPD
+  - 7E1.7E9.0105
+  "7E4":
+  - 7E4.7EC.0105
+  "7E5":
+  - 7E5.7ED.0105
