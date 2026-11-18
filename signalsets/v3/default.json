@@ -71,11 +71,11 @@
   "signals": [
     {"id": "A6_WNDSHLD_TEMP", "path": "Climate", "fmt": { "len": 8, "max": 108.08, "min": -38.8, "mul": 0.576, "add": -38.8, "unit": "celsius" }, "name": "Windshield temperature"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "10E0"}, "freq": 30, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
+{ "hdr": "7E0", "cmd": {"22": "10E0"}, "freq": 30, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018, 2020], "from": 2022 },
   "signals": [
     {"id": "A6_ODO_3", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "nullmax": 2147483647, "unit": "kilometers" }, "name": "Odometer (alternative 2)", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "11BA"}, "freq": 15, "dbgfilter": { "to": 2018, "years": [2020], "from": 2022 },
+{ "hdr": "7E0", "cmd": {"22": "11BA"}, "freq": 15, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018, 2020], "from": 2022 },
   "signals": [
     {"id": "A6_OIL_LEVEL", "path": "Engine", "fmt": { "len": 16, "max": 262, "div": 250, "unit": "unknown" }, "name": "Oil level"}
   ]},
@@ -91,23 +91,23 @@
   "signals": [
     {"id": "A6_ODO_2", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer (alternative)", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0302"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0302"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2014, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME", "path": "Stats", "fmt": { "len": 16, "max": 16383, "div": 4, "unit": "hours" }, "name": "Total drive time"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0303"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0303"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2014, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_ECO", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (eco)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in eco mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0304"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0304"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2014, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_SPORT", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (sport)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in sport mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "0305"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "0305"}, "freq": 900, "dbgfilter": { "to": 2011, "years": [2014, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_DRIVE_TIME_MANUAL", "path": "Stats", "fmt": { "len": 8, "max": 100, "div": 2.5, "unit": "percent" }, "name": "Driving time (manual)", "description": "Value may be wrong, needs more validation. Proportion of time spent driving in manual mode"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2022, 2023], "from": 2025 },
+{ "hdr": "7E1", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2014, 2022, 2023], "from": 2025 },
   "signals": [
     {"id": "A6_GEAR", "path": "Transmission", "name": "Gear", "suggestedMetric": "gear", "fmt": {"len": 8, "map": {
           "1":  { "description": "Reverse",      "value": "REVERSE" },
@@ -122,19 +122,19 @@
         }}
     }
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2012, "years": [2014], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2012, "years": [2014], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_FR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2012, "years": [2014], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RL_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2021 },
+{ "hdr": "7E1", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2012, "years": [2014], "from": 2021 },
   "signals": [
     {"id": "A6_TIRE_RR_SPD", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]}
