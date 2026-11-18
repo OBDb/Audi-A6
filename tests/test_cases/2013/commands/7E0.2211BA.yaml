@@ -1,0 +1,8 @@
+command_id: 7E0.2211BA
+test_cases:
+- expected_values:
+    A6_OIL_LEVEL: 62.28
+  response: 7E8056211BA3CD2
+- expected_values:
+    A6_OIL_LEVEL: 62.348
+  response: 7E8056211BA3CE3
