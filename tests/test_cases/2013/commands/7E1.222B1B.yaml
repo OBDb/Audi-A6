@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     A6_TIRE_FL_SPD: 0
   response: 7E905622B1B0000
+- expected_values:
+    A6_TIRE_FL_SPD: 7.1
+  response: 7E905622B1B0047
+- expected_values:
+    A6_TIRE_FL_SPD: 16.6
+  response: 7E905622B1B00A6
+- expected_values:
+    A6_TIRE_FL_SPD: 40.8
+  response: 7E905622B1B0198
+- expected_values:
+    A6_TIRE_FL_SPD: 60
+  response: 7E905622B1B0258
+- expected_values:
+    A6_TIRE_FL_SPD: 65.7
+  response: 7E905622B1B0291
