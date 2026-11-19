@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     A6_ODO_3: 239297
   response: 7E8076210E00003A6C1
+- expected_values:
+    A6_ODO_3: 239300
+  response: 7E8076210E00003A6C4
+- expected_values:
+    A6_ODO_3: 239301
+  response: 7E8076210E00003A6C5
+- expected_values:
+    A6_ODO_3: 239302
+  response: 7E8076210E00003A6C6

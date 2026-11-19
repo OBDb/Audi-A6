@@ -1,6 +1,15 @@
 command_id: 7E0.2211BA
 test_cases:
 - expected_values:
+    A6_OIL_LEVEL: 57.44
+  response: 7E8056211BA3818
+- expected_values:
+    A6_OIL_LEVEL: 59.708
+  response: 7E8056211BA3A4F
+- expected_values:
+    A6_OIL_LEVEL: 59.948
+  response: 7E8056211BA3A8B
+- expected_values:
     A6_OIL_LEVEL: 62.28
   response: 7E8056211BA3CD2
 - expected_values:
@@ -12,3 +21,12 @@ test_cases:
 - expected_values:
     A6_OIL_LEVEL: 62.468
   response: 7E8056211BA3D01
+- expected_values:
+    A6_OIL_LEVEL: 62.6
+  response: 7E8056211BA3D22
+- expected_values:
+    A6_OIL_LEVEL: 63.976
+  response: 7E8056211BA3E7A
+- expected_values:
+    A6_OIL_LEVEL: 64.016
+  response: 7E8056211BA3E84
