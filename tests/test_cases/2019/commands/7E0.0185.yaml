@@ -1,0 +1,14 @@
+command_id: 7E0.0185
+test_cases:
+- expected_values:
+    NWI_TIME: 0
+    NWI_TIME_SUP: 0
+    REAG_DEMD: 0.035
+    REAG_DEMD_SUP: 1
+    REAG_LVL: 83.92157
+    REAG_LVL_SUP: 1
+    REAG_RATE: 0.035
+    REAG_RATE_SUP: 1
+  response: |-
+    7E8100C418507000700
+    7E82107D60000000000
